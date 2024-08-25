@@ -1,0 +1,124 @@
+{
+    "reviews": [
+      {
+        "professor": "Dr. Emily Johnson",
+        "subject": "Physics",
+        "stars": 4,
+        "review": "Engaging lectures and challenging assignments. Very knowledgeable in her field."
+      },
+      {
+        "professor": "Prof. Michael Chen",
+        "subject": "Computer Science",
+        "stars": 5,
+        "review": "Excellent teacher! Makes complex concepts easy to understand. Always available for questions."
+      },
+      {
+        "professor": "Dr. Sarah Williams",
+        "subject": "Biology",
+        "stars": 3,
+        "review": "Decent instructor, but lectures can be dry. Lab sessions are well-organized."
+      },
+      {
+        "professor": "Prof. Robert Taylor",
+        "subject": "History",
+        "stars": 4,
+        "review": "Passionate about the subject. Assignments are thought-provoking and fair."
+      },
+      {
+        "professor": "Dr. Amanda Lopez",
+        "subject": "Psychology",
+        "stars": 5,
+        "review": "Inspiring professor. Her research experience adds depth to the course material."
+      },
+      {
+        "professor": "Prof. David Kim",
+        "subject": "Mathematics",
+        "stars": 2,
+        "review": "Struggles to explain complex topics. Office hours are not very helpful."
+      },
+      {
+        "professor": "Dr. Lisa Brown",
+        "subject": "English Literature",
+        "stars": 4,
+        "review": "Insightful analysis of texts. Encourages class discussions effectively."
+      },
+      {
+        "professor": "Prof. James Wilson",
+        "subject": "Chemistry",
+        "stars": 3,
+        "review": "Knowledgeable but can be intimidating. Lab safety is a top priority."
+      },
+      {
+        "professor": "Dr. Jessica Lee",
+        "subject": "Sociology",
+        "stars": 5,
+        "review": "Engaging lecturer. Relates course material to real-world issues effectively."
+      },
+      {
+        "professor": "Prof. Thomas Garcia",
+        "subject": "Economics",
+        "stars": 4,
+        "review": "Clear explanations of complex economic theories. Fair grader."
+      },
+      {
+        "professor": "Dr. Rachel White",
+        "subject": "Art History",
+        "stars": 5,
+        "review": "Passionate and knowledgeable. Field trips to museums are a highlight."
+      },
+      {
+        "professor": "Prof. Daniel Smith",
+        "subject": "Political Science",
+        "stars": 3,
+        "review": "Balanced view on political issues. Could improve on time management in class."
+      },
+      {
+        "professor": "Dr. Olivia Martin",
+        "subject": "Environmental Science",
+        "stars": 4,
+        "review": "Excellent at explaining complex environmental issues. Fieldwork is well-organized."
+      },
+      {
+        "professor": "Prof. Kevin Park",
+        "subject": "Mechanical Engineering",
+        "stars": 2,
+        "review": "Difficult to follow in lectures. Projects are interesting but poorly explained."
+      },
+      {
+        "professor": "Dr. Sophia Nguyen",
+        "subject": "Linguistics",
+        "stars": 5,
+        "review": "Fantastic teacher. Makes linguistics accessible and fun."
+      },
+      {
+        "professor": "Prof. Christopher Davis",
+        "subject": "Philosophy",
+        "stars": 4,
+        "review": "Thought-provoking lectures. Encourages critical thinking."
+      },
+      {
+        "professor": "Dr. Lauren Taylor",
+        "subject": "Neuroscience",
+        "stars": 3,
+        "review": "Knowledgeable but lectures can be overwhelming. Extra study sessions are helpful."
+      },
+      {
+        "professor": "Prof. Andrew Johnson",
+        "subject": "Business Administration",
+        "stars": 4,
+        "review": "Brings real-world experience to the classroom. Group projects are challenging but rewarding."
+      },
+      {
+        "professor": "Dr. Maria Rodriguez",
+        "subject": "Anthropology",
+        "stars": 5,
+        "review": "Passionate about the subject. Field studies are eye-opening experiences."
+      },
+      {
+        "professor": "Prof. William Lee",
+        "subject": "Statistics",
+        "stars": 3,
+        "review": "Explains concepts clearly but exams are very difficult. Helpful office hours."
+      }
+    ]
+  }
